@@ -31,8 +31,8 @@ You can view the interactive dashboard [here](https://public.tableau.com/views/N
 
 ## File Structure
 
-- `data/netflix_titles.csv`: The raw dataset.
-- `notebooks/Data_Cleaning.ipynb`: Jupyter Notebook containing the data cleaning process.
+- `netflix_titles.csv`: The raw dataset.
+- `Netflix_Data_Cleaning.ipynb`: Jupyter Notebook containing the data cleaning process.
 
 ## Prerequisites
 
